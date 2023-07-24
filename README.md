@@ -17,5 +17,5 @@ This project focuses on enhancing the customer service process of Uber, improvin
 
 ## Authors
 
-- **Gautham Sathyanarayanan** - sathyang@uwindsor.ca
-- **Mahroosa Ibtesaam** - ibtesaa@uwindsor.ca
+- **Gautham Sathyanarayanan** - gauthamsathyan@gmail.com
+- **Mahroosa Ibtesaam** - mahroosaibtesaam@gmail.com
