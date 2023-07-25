@@ -1,0 +1,6 @@
+Column1,Population,Income,Transportation,Population Density,Population Growth Rate,Quality of Life,Average Income,Employment Opportunities,Cost of Living,Public Transport,Traffic Congestion,Accessibility
+Toronto,2930000,62000,8,3087,9,6,62000,9,6,9,6,8
+Vancouver,675218,72000,7,2661,7,5,72000,8,7,7,8,5
+Montreal,1780000,50000,9,2658,8,7,50000,8,9,8,9,6
+Ottawa,994837,54000,6,1945,7,6,54000,7,5,7,6,5
+Calgary,1336000,58000,8,2099,9,6,58000,9,7,9,6,7
