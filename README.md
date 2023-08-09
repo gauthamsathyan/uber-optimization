@@ -13,9 +13,3 @@ This project focuses on enhancing the customer service process of Uber, improvin
 3. **Enhancing Efficiency of Customer Support:** By leveraging BERT-based text classification and automated response generation, we automated the customer service process for Uber. The main aim is to efficiently categorize customer complaints and generate relevant automated responses tailored to each complaint category, leading to improved resolution efficiency and a smoother customer support experience for Uber users.
 
 4. **Choosing Optimal City for New Feature Launch:** An in-depth AHP process was used to select the optimal city for launching a new feature in the Uber app. Cities were evaluated based on criteria such as population, income, and transportation. The process concluded that Toronto was the best choice for this expansion due to its high overall score in the AHP-based analysis.
-
-
-## Authors
-
-- **Gautham Sathyanarayanan** - gauthamsathyan@gmail.com
-- **Mahroosa Ibtesaam** - mahroosaibtesaam@gmail.com
